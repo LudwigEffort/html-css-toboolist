@@ -21,9 +21,18 @@ header  {
 }
 
 /* Main */
+
+.bottom_rule    {
+    border-bottom: 3px solid grey;
+    padding-bottom: 10px;
+}
+
 main    {
     background-color: white;
-    padding: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -31,7 +40,7 @@ main    {
 }
 
 .general_conteiner    {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 hr  {
