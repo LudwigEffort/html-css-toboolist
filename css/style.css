@@ -3,6 +3,7 @@ body    {
     background-color: lightslategrey;
     font-family: 'JetBrains Mono';
     font-size: 16pt;
+    margin: 0px;
 }
 
 /* Header */
