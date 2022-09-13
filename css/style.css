@@ -1,7 +1,8 @@
 /* Body */
 body    {
-    background-color: grey;
+    background-color: lightslategrey;
     font-family: 'JetBrains Mono';
+    font-size: 16pt;
 }
 
 /* Header */
@@ -44,20 +45,19 @@ hr  {
     color: white;
     padding: 2px;
     border-style: solid;
-    border-width: 1px;
+    width: 12px;
     border-radius: 5px;
     border-color: blue;
     margin: auto;
 }
 
 .button_2   {
-    background-color: blue;
-    color: white;
+    color: grey;
     padding: 2px;
     border-style: solid;
-    border-width: 1px;
+    width: 12px;
     border-radius: 5px;
-    border-color: blue;
+    border-color: grey;
     margin: auto;
 }
 
@@ -68,7 +68,7 @@ hr  {
 }
 
 .check_not_done {
-    width: 20px;
+    width: 15px;
     vertical-align: middle;
 }
 
@@ -83,9 +83,69 @@ h5  {
     color: white;
     padding: 2px;
     border-style: solid;
-    border-width: 6px;
+    width: 6px;
     border-radius: 18px;
     border-color: blue;
+    margin: auto;  
+    font-size: 8pt;
+}
+
+.goals  {
+    background-color: violet;
+    color: white;
+    padding: 2px;
+    border-style: solid;
+    width: 6px;
+    border-radius: 18px;
+    border-color: violet;
+    margin: auto;  
+    font-size: 8pt;
+}
+
+.recruiting  {
+    background-color: green;
+    color: white;
+    padding: 2px;
+    border-style: solid;
+    width: 6px;
+    border-radius: 18px;
+    border-color: green;
+    margin: auto;  
+    font-size: 8pt;
+}
+
+.mobile  {
+    background-color: orange;
+    color: white;
+    padding: 2px;
+    border-style: solid;
+    width: 6px;
+    border-radius: 18px;
+    border-color: orange;
+    margin: auto;  
+    font-size: 8pt;
+}
+
+.website  {
+    background-color: pink;
+    color: white;
+    padding: 2px;
+    border-style: solid;
+    width: 6px;
+    border-radius: 18px;
+    border-color: pink;
+    margin: auto;  
+    font-size: 8pt;
+}
+
+.sales  {
+    background-color: olive;
+    color: white;
+    padding: 2px;
+    border-style: solid;
+    width: 6px;
+    border-radius: 18px;
+    border-color: olive;
     margin: auto;  
     font-size: 8pt;
 }
