@@ -82,6 +82,11 @@ hr  {
     vertical-align: middle;
 }
 
+h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 h5  {
     display: inline;
     vertical-align: middle;
