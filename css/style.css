@@ -1,0 +1,28 @@
+/* Body */
+body    {
+    background-color: grey;
+}
+
+/* Header */
+header  {
+    background-color: white;
+}
+
+.img_logo  {
+    width: 80px;
+    vertical-align: middle;
+}
+
+.title  {
+    display: inline;
+    vertical-align: middle;
+}
+
+
+/* Main */
+main    {
+    background-color: red;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
