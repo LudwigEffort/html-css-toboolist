@@ -1,6 +1,6 @@
 /* Body */
 body    {
-    background-color: lightslategrey;
+    background-color: lightgrey;
     font-family: 'JetBrains Mono';
     font-size: 16pt;
     margin: 0px;
@@ -24,7 +24,7 @@ header  {
 /* Main */
 
 .bottom_rule    {
-    border-bottom: 3px solid grey;
+    border-bottom: 3px solid lightgrey;
     padding-bottom: 10px;
 }
 
@@ -38,6 +38,7 @@ main    {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+    border-radius: 10px;
 }
 
 .general_conteiner    {
